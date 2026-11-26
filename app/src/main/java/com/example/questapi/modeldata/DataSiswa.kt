@@ -1,4 +1,2 @@
-package com.example.questapi.modeldata;
+package com.example.questapi.modeldata
 
-public class DataSiswa {
-}

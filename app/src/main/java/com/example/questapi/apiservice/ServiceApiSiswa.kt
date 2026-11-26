@@ -1,4 +1,2 @@
-package com.example.questapi.apiservice;
+package com.example.questapi.apiservice
 
-public interface ServiceApiSiswa {
-}
